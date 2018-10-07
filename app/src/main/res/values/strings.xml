@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyInvoices</string>
+    <string name="invoice_title_hint">Enter a title for the invoice.</string>
+    <string name="invoice_title_label">Title</string>
+    <string name="invoice_details_label">Details</string>
+    <string name="invoice_solved_label">Solved</string>
+    <string name="date_picker_title">Date of Invoice: </string>
+    <string name="type_picker_title"> Type of Invoice</string>
+
+    <string-array name="invoice_type">
+        <item>Clothes</item>
+        <item>Home</item>
+        <item>Stationery</item>
+        <item>Electronics</item>
+    </string-array>
+
+
+
+    <string name="new_invoice">New Invoice</string>
+    <string name="invoice_help"> Help</string>
+    <string name="invoice_type"> Type of Invoice</string>
+    <string name="invoice_image"> Click a photo</string>
+    <string name="invoice_comment">Comment</string>
+    <string name="invoice_comment_hint"> review </string>
+    <string name="invoice_shop_name"> Shop Name</string>
+    <string name="invoice_shop_name_hint"> please type shop name here</string>
+    <string name="invoice_location"> Location</string>
+    <string name="cancel"> cancel/delete
+    </string>
+    <string name="save"> save</string>
+    <string name="delete_invoice"> Delete</string>
+    <string name="invoice_map"> Map</string>
+</resources>
